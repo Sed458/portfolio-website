@@ -14,17 +14,3 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
-.info {
-  text-align: center;
-  font-size: 40px;
-}
-
-.icon-list {
-  display: block;
-  list-style-type: disc;
-  list-style: none;
-  padding: 10px;
-  border-radius: 25px;
-  background-color:rgba(0,0,0,0.75);
-}
